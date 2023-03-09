@@ -4,3 +4,6 @@ yet again added on new branch2
 Master line added on line 4
 Added line2 in myfile
  Added line3 in myfile
+ Added line4 in myfile
+
+ Added line 5 for reset.
