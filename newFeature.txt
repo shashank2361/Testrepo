@@ -1,3 +1,4 @@
 This is newfeature developed on 2362 brach
 conflicting change
+one more change
 conflicting change2
