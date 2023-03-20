@@ -1,3 +1,5 @@
 This is newfeature developed on 2362 brach
 conflicting change
+creating some more conflits1
 conflicting change2
+creating some more conflits2
